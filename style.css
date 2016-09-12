@@ -1,0 +1,100 @@
+#profile p {
+  font-size: medium;
+}
+
+#social {
+    display: table;
+    margin: 0 auto;
+}
+
+.socialIcon {
+  float:left;
+  padding-right: 1em;
+}
+
+#profilePic {
+  float: right;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+col-sm-6 {
+  padding-top: 0.5em;
+}
+
+.materialBanner {
+  bottom: 0;
+  background-color: #283593;
+  width: 100%;
+  padding: 0.5em;
+  color: #EEEEEE;
+  float: bottom;
+}
+
+materialContent {
+  float: top;
+}
+
+html {
+  font-family: Roboto;
+}
+
+#holding {
+  background-color: #E8EAF6;
+  padding-right: 10%;
+  padding-left: 10%;
+}
+
+#profile {
+  min-height: 40vh;
+  background-color: #9E9E9E;
+  color: #EEEEEE;
+  margin-top: 6.5em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+}
+
+#portfolio {
+  padding-right: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  min-height: 40vh;
+  background-color: #EEEEEE;
+  color: #757575;
+}
+
+#contact {
+  padding-right: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  min-height: 20vh;
+  background-color: #EEEEEE;
+  color: #757575;
+}
+
+.navbar {
+  margin-bottom: 0;
+  background-color: #283593;
+  padding: 1em;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border: none;
+}
+
+nav {
+  color: #9E9E9E;
+}
+
+.row {
+  padding-bottom: 1em;
+}
+
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  position: relative;
+  padding: 0em;
+  margin-bottom: 1em;
+}
+
+* {
+  border-radius: 0 !important;
+}
