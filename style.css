@@ -74,14 +74,23 @@ html {
 
 .navbar {
   margin-bottom: 0;
-  background-color: #283593;
+  background-color: #283593 !important;
+  color: #FFFFFF !important;
   padding: 1em;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   border: none;
 }
 
+.navbar-brand {
+	color: #FFFFFF !important;
+}
+
+.navbar-nav a {
+	color: #FFFFFF !important;
+}
+
 nav {
-  color: #9E9E9E;
+  color: #FFFFFF !important;
 }
 
 .row {
