@@ -14,7 +14,7 @@
 
 #profilePic {
   float: right;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.2);
 }
 
 col-sm-6 {
@@ -23,10 +23,10 @@ col-sm-6 {
 
 .materialBanner {
   bottom: 0;
-  background-color: #283593;
+  background-color: #2196F3;
   width: 100%;
   padding: 0.5em;
-  color: #EEEEEE;
+  color: #FFFFFF;
   float: bottom;
 }
 
@@ -39,15 +39,15 @@ html {
 }
 
 #holding {
-  background-color: #E8EAF6;
+  background-color: #FAFAFA;
   padding-right: 10%;
   padding-left: 10%;
 }
 
 #profile {
   min-height: 40vh;
-  background-color: #9E9E9E;
-  color: #EEEEEE;
+  background-color: #FFFFFF;
+  color: #616161;
   margin-top: 6.5em;
   padding-left: 1em;
   padding-right: 1em;
@@ -59,8 +59,8 @@ html {
   padding-left: 1em;
   padding-bottom: 1em;
   min-height: 40vh;
-  background-color: #EEEEEE;
-  color: #757575;
+  background-color: #FFFFFF;
+  color: #616161;
 }
 
 #contact {
@@ -68,13 +68,13 @@ html {
   padding-left: 1em;
   padding-bottom: 1em;
   min-height: 20vh;
-  background-color: #EEEEEE;
-  color: #757575;
+  background-color: #FFFFFF;
+  color: #616161;
 }
 
 .navbar {
   margin-bottom: 0;
-  background-color: #283593 !important;
+  background-color: #2196F3 !important;
   color: #FFFFFF !important;
   padding: 1em;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -106,4 +106,12 @@ nav {
 
 * {
   border-radius: 0 !important;
+}
+
+a {
+	color: #2196F3;
+}
+
+.card a {
+	text-decoration: none;
 }
