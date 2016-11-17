@@ -1,2 +1,0 @@
-# fccportfolio
-freeCodeCamp portfolio project
